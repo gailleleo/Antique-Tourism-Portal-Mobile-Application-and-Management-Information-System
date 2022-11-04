@@ -1,7 +1,5 @@
 # Gaille cabanggay | 17-0495-46
 
-# Jazer Demdam | 20-1211-33
-
 # Luke Fornier | 19-1788-64
 
 Antique-Tourism-Portal-Mobile-Application-and-Management-Information-System
